@@ -1,14 +1,11 @@
-### Joziel Costa
-
+## Joziel Costa
 <div align="center">
   <a href="https://github.com/jozielsc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jozielsc&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jozielsc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jozielsc&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="jsc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jsc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jsc-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
